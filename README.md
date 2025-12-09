@@ -1,5 +1,5 @@
 <h1 align="center">Jogo_super_mario ##Html,Css & JavaScript</h1>
-<h3 align="center">*Um game simples do clássico jogo do NeS* com intuito de botar em prática os conhecimentos em Html5, Css3 e Javascript aprendidos em aula, baseado no tutorial do canal _Manual o Dev_.</h3>
+<h3 align="center"> <strong>Um game simples do clássico jogo do NeS</strong><br> com intuito de botar em prática os conhecimentos em Html5, Css3 e Javascript aprendidos em aula, baseado no tutorial do canal _Manual o Dev_.</h3>
 
 
 </p>
